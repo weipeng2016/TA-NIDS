@@ -1,2 +1,2 @@
 # TA-NIDS
-code for the paper
+code for the TA-NIDS
